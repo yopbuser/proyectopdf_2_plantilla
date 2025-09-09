@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\venta\\historialventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\venta\\historialventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\venta\\nuevaventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\venta\\nuevaventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|c:\\users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA550C4-1124-4B41-A73E-B7C48DEDEEC1}|proyectopdf_1.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:35:22.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:29:00.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T01:44:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T01:39:43.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T22:01:20.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T21:59:19.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAKIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T14:05:11.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reporte\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T22:49:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NuevaVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Venta\\NuevaVenta.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venta\\NuevaVenta.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Venta\\NuevaVenta.cshtml",
+              "RelativeToolTip": "Views\\Venta\\NuevaVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T23:28:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistorialVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Venta\\HistorialVenta.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venta\\HistorialVenta.cshtml",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Views\\Venta\\HistorialVenta.cshtml",
+              "RelativeToolTip": "Views\\Venta\\HistorialVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T22:43:48.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "Controllers\\VentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T22:18:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T21:58:33.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\pablo\\source\\repositorio\\proyectopdf_1 revisi\u00F3n_2\\1_proyectopdf_4\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:49:59.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
